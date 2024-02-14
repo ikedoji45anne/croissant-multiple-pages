@@ -1,0 +1,35 @@
+body {
+    background-color: chocolate;
+}
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    display: block;
+}
+
+p {
+    display: block;
+    font-size: 1em;
+}
+
+img {
+    width: 70%;
+    display: block;
+    margin: 30px  auto;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    
+    
+}
+
+footer a {
+    margin: 0 10px;
+    color: darkblue;
+}
